@@ -1,7 +1,40 @@
 # 50_Startups_Profit
-This dataset contains four independent variables: R&amp;D Spend, Administration, Marketing Spend, and State. Our task is to use this data to train a Machine Learning model that can understand how these variables relate to the Profit. With this knowledge, we can predict the profit for a new company based on its data.
-1. R&D spending: The amount which startups are spending on Research and development.
-2. Administration spending: The amount which startups are spending on the Admin panel.
-3. Marketing spending: The amount which startups are spending on marketing strategies.
-4. State: To which state that particular startup belongs.
-5. Profit: How much profit that particular startup is making.
+
+![image](https://github.com/ShreyaPatil1199/50_Startups_Profit/assets/135635788/0d57785e-9bcb-4f92-92d3-f81d30d6b641)
+
+This dataset contains four independent variables: R&amp;D Spend, Administration, Marketing Spend, and State. The task is to use this data to train a machine-learning model that can understand how these variables relate to the Profit. With this knowledge, the profit of a new company based on its data can be predicted.
+
+![Python 3](https://img.shields.io/badge/Python-3-blue.svg)
+
+## Table of Contents
+
+- [Objective](#Objective)
+
+- [Prerequisite](#Prerequisite)
+
+- [Data Description](#Data-Description)
+
+
+## Objective 
+
+The objective of the Profit Prediction for Startups project is to build a machine learning model that can predict the profit of a startup company based on its spending in various areas and the state in which it operates. This model will provide valuable insights into how different factors such as R&D spending, administration spending, marketing spending, and location influence a startup's profitability. By analyzing these relationships, we aim to create a predictive tool that can assist entrepreneurs and investors in making informed decisions about new ventures.
+
+## Prerequisite 
+
+Before you begin working with this project, make sure you have the following prerequisites in place:
+
+Python 3 is installed on your system.
+
+Required Python libraries and dependencies, which can be installed using pip or conda. 
+
+## Data Description
+
+**R&D Spending**: This represents the amount that startups are spending on research and development activities. It reflects the investment made in innovation and product development.
+
+**Administration Spending**: This variable denotes the amount that startups allocate to administrative functions. It includes expenses related to management and organizational operations.
+
+**Marketing Spending**: This attribute signifies the amount that startups are investing in marketing strategies and promotional activities.
+
+**State**: This categorical variable indicates the state in which a particular startup is located. It captures the geographical aspect of the business.
+
+**Profit**: This is the target variable and represents the amount of profit that a particular startup is making. It serves as the dependent variable that we aim to predict.
